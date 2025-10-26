@@ -22,5 +22,5 @@
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/afroditi-petridou-73573235a)  
+[LinkedIn](#)  
 
