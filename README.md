@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Languages 
+### 🛠️ Tech Stack
 Python · SQL · Pandas · Scikit-learn · Matplotlib · Plotly · Seaborn
 ---
 
