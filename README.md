@@ -1,14 +1,13 @@
-# 👋 Hi, I'm Afroditi Petridou  
+# Afroditi Petridou
 
-🎓 Informatics graduate from Ionian University, specializing in Software Engineering.  
-🤖 My thesis was focused on the *use of machine learning methods for financial data analysis*.  
-🌍 Volunteer at Sistech, contributing to women’s empowerment in technology.  
-🚀 I’m interested in projects involving data analysis and machine learning.  
+🎓 Informatics graduate, specializing in Data Analysis and Machine Learning. My thesis explored anomaly detection in financial data using ML methods.  
+🌍 Former Volunteer — Sistech (Women in Technology)
+  
 
 ---
 
 ### 🛠️ Languages 
-- Python | SQL  
+Python · SQL · Pandas · Scikit-learn · Matplotlib · Plotly · Seaborn
 ---
 
 ### 📊 Projects
