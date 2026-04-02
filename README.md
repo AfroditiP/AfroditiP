@@ -19,4 +19,4 @@ Former volunteer at [Sistech](https://sistech.gr) — an initiative supporting w
 
 ## Connect
 
-[LinkedIn] www.linkedin.com/in/afroditi-p-73573235a
+[LinkedIn](https://www.linkedin.com/in/afroditi-p-73573235a)
