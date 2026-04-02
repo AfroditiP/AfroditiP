@@ -15,7 +15,7 @@ Python, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly, SQL, SQLite
 
 ## Volunteering
 
-Former volunteer at [Sistech](https://sistech.gr) — an initiative supporting women in technology.
+Former volunteer at [Sistech](https://sis.tech/greece/) — an initiative supporting women in technology.
 
 ## Connect
 
